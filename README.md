@@ -3,7 +3,7 @@
 <!-- EDIT ME-->
 
 [![](https://ci.appveyor.com/api/projects/status/github/mortis42/chocolatey-packages?svg=true)](https://ci.appveyor.com/project/mortis42/chocolatey-packages)
-[Update status](https://gist.github.com/mortis42/YOUR_GIST_ID)
+[Update status](https://gist.github.com/mortis42/bc8138de9a0706c02312f720c01ea232)
 
 <!-- REMOVE THE squiggles "~" surrounding this (this should not be a code block) -->
 
